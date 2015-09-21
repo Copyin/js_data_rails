@@ -1,0 +1,8 @@
+# Bundler specific files
+.bundle
+Gemfile.lock
+
+# Project specifics
+bin/
+.ruby-gemset
+.ruby-version
