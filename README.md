@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/Twistilled/js_data_rails.svg?style=svg)](https://circleci.com/gh/Twistilled/js_data_rails)
+
 # JsDataRails
 
 This library allows you to take queries filtered from the awesome
